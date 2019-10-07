@@ -29,7 +29,6 @@ layout: base
             <!-- 显示每篇博客阅读量, id 将作为查询条件 -->
                 <span id={{post.url}} class="leancloud-visitors" data-flag-title={{post.title}}>
                     <span class="post-meta-divider">|</span>
-                    <span class="post-meta-item-text">阅读量 </span>
                     <span class="leancloud-visitors-count"></span>
                 </span>
                 &#x1F601
@@ -39,7 +38,7 @@ layout: base
 
     <div class="post-content">{{ post.content | strip_html | truncate:160 }}</div>
 
-    <p class="readmore"><a href="{{ post.url | prepend: site.baseurl }}">阅读更多</a></p>
+    <p class="readmore"><a href="{{ post.url | prepend: site.baseurl }}">閱讀更多</a></p>
 
 </div>
 {% endfor %}
@@ -67,13 +66,13 @@ layout: base
 <div class="page-navigator">
     {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-    <a href="/" class="previous">上一页</a>
+    <a href="/" class="previous">上一頁</a>
     {% else %}
     <a href="/page/{{ paginator.previous_page }}/" class="previous">上一页</a>
     {% endif %}
     {% endif %}
-    <span class="page-number">第 {{ paginator.page }}/{{ paginator.total_pages }} 页</span>
+    <span class="page-number">第 {{ paginator.page }}/{{ paginator.total_pages }} 頁</span>
     {% if paginator.next_page %}
-    <a href="/page/{{ paginator.next_page }}/" class="next">下一页</a>
+    <a href="/page/{{ paginator.next_page }}/" class="next">下一頁</a>
     {% endif %}
 </div>
