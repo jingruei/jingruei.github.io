@@ -46,7 +46,7 @@ permalink: /search
       }
     }
     if ($('.post-archive a').length == 0) {
-      $('.post-archive').html('<font color="red">没有记录</font>')
+      $('.post-archive').html('<font color="red">沒有紀錄</font>')
     }
   }
 </script>
