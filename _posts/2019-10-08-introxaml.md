@@ -24,7 +24,7 @@ XAML(Extensible Application Markup Language)
 - 可通過attribute設置每個類的property
 
 ---
-####頂級元素(toplevel element)
+#### 頂級元素(toplevel element)
 一個XAML文檔只能有一個頂級元素
 
 - Window
