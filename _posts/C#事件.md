@@ -2,8 +2,8 @@
 layout: post
 title:  "C#"
 date:   2019-10-08 01:06:07 +0800--
-categories: [C#]
-tags: [C#]  
+categories: [CSharp]
+tags: [CSharp]  
 ---
 
 # C Sharp
