@@ -1,14 +1,14 @@
 # Site settings
 title: oukohou
-subtitle: [ 璇珠杂俎]
+subtitle: [ Chi's Blog]
 keywords: oukohou
-description: 我梦扬州，便想到扬州梦我。幸会。微信公众号：oukohou.
+description: Code
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.oukohou.wang/" # 你的域名
+url: "https://iewihc.github.io/" # 你的域名
 page_no_title: "oukohou's blog" # 文章无标题时默认显示内容
 beian: # "备案号"
-author: oukohou
-email: oukohou@outlook.com
+author: iewihc
+email: iewihc@outlook.com
 
 # Build settings
 permalink: /:year/:month/:day/:title/
@@ -36,36 +36,18 @@ google_search: # true
 
 # Menu settings
 menu:
-  - page: 首页
+  - page: 首頁
     directory: .
     icon: icon-home
-  - page: 归档
+  - page: 歸檔
     directory: archives/
     icon: icon-archive
-  - page: 标签
+  - page: 標籤
     directory: tags/
     icon: icon-tags
-  - page: 留言
-    directory: guestbook/
-    icon: icon-guestbook
-  - page: 关于
-    directory: about/
-    icon: icon-about
-#  - page: 订阅
-#    directory: feed.xml
-#    icon: icon-rss
 
-# Link settings
-links: # 友情链接
 
-  - title: ccslience's blog
-    url: http://ccslience.oukohou.wang/
-  - title: oukohou's github
-    url: https://github.com/oukohou
-#  - title:
-#    url: http://jekyllcn.com/
-  - title: Jekyll blog system
-    url: http://jekyllcn.com/
+
 
 
 # Google Analytics
