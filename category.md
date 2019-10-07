@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 分类
+title: 分類
 permalink: /category/
 ---
 
 <div class="category">
-  <h1>文章分类</h1>
+  <h1>文章分類</h1>
 
   <ul id="categories">
   {% for category in site.categories %}
