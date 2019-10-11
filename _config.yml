@@ -31,7 +31,6 @@ paginate: 8 # 分頁大小
 paginate_path: "page/:num/"
 
 # Search settings
-baidu_search: false
 google_search: true
 
 # Menu settings
