@@ -72,4 +72,4 @@ valine:
   guest_info: nick,mail,link
   pageSize: 10
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
