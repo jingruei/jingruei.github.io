@@ -1,7 +1,7 @@
 # Site settings
 title: 程式筆記Code Notes
 subtitle: [ Chi's Blog]
-keywords: oukohou
+keywords: iewihc
 description: Code
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iewihc.github.io/" # 你的域名
