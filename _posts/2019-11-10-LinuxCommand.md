@@ -6,6 +6,9 @@ categories: [Command Line]
 tags: [Command Line]  
 ---
 
+![](https://upload.cc/i1/2019/11/10/pmvQcl.png)
+
+
 
 # 文件指令
 |Command|Description|Full|example
