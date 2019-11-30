@@ -12,6 +12,7 @@ tags: [C#]
 - `CTRL+M+M` 開關摺疊
 - `CTRL+D` 複製貼上
 - `CTRL+R+A` run all test
+- `CTRL+R+CTL+R` Rename
 
 ---
 
